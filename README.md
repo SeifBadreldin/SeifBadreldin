@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:4F46E5&height=215&section=header&text=Seif%20Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Network%20%26%20Cybersecurity%20Engineer%20%7C%20AppSec%20%E2%80%A2%20Secure%20Backends%20%E2%80%A2%20Enterprise%20Networks&descSize=16&descAlignY=60&descColor=E2E8F0" alt="Seif Badreldin Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:4F46E5&height=210&section=header&text=Seif+Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Network+and+Cybersecurity+Engineer+%7C+AppSec+%7C+Secure+Backends&descSize=16&descAlignY=62&descColor=E2E8F0" alt="Seif Badreldin Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Network+%26+Cybersecurity+Undergraduate+(CGPA+3.7+%C2%B7+Excellence);Web+Application+Security+Testing+(OWASP+Top+10+%26+Burp+Suite);Secure+Backend+Engineering+(JWT%2C+2FA%2C+OAuth%2C+AES-256-GCM);Enterprise+Network+Architecture+%26+AI+Threat+Detection" alt="Core Security & Engineering Pillars" />
