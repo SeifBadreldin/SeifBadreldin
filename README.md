@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:4F46E5&height=210&section=header&text=Seif+Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Network+and+Cybersecurity+Engineer+%7C+AppSec+%7C+Secure+Backends&descSize=16&descAlignY=62&descColor=E2E8F0" alt="Seif Badreldin Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:4F46E5&height=210&section=header&text=Seif+Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Network+and+Cybersecurity+%7C+AppSec+%7C+Secure+Backends&descSize=16&descAlignY=62&descColor=E2E8F0" alt="Seif Badreldin Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Network+%26+Cybersecurity+Undergraduate+(CGPA+3.7+%C2%B7+Excellence);Web+Application+Security+Testing+(OWASP+Top+10+%26+Burp+Suite);Secure+Backend+Engineering+(JWT%2C+2FA%2C+OAuth%2C+AES-256-GCM);Enterprise+Network+Architecture+%26+AI+Threat+Detection" alt="Core Security & Engineering Pillars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Network+%26+Cybersecurity+Undergraduate+(CGPA+3.7+%C2%B7+Excellence);Web+Application+Security+Testing+(OWASP+Top+10+%26+Burp+Suite);Secure+Backend+Engineering+(JWT%2C+MFA%2C+OAuth%2C+RBAC);Enterprise+Networking+%26+Fraud+Detection+Systems" alt="Core Security & Engineering Pillars" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeifBadreldin)
-[![Phone](https://img.shields.io/badge/WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201025590726)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201025590726)
 [![Email](https://img.shields.io/badge/Contact_Me-1E1B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifmohamed3535@gmail.com)
 
 </div>
@@ -18,31 +18,31 @@
 
 ### About
 
-> **Network & Cybersecurity Technology undergraduate (CGPA 3.7 · Excellence)** specializing in **web application security testing**, **secure backend architecture**, **enterprise networking**, and **AI-driven threat detection**.
+> **Network & Cybersecurity Technology undergraduate (CGPA 3.7 · Excellence)** specializing in **web application security testing**, **secure backend engineering**, **enterprise networking**, and **fraud & phishing detection**.
 >
-> Brings hands-on experience assessing web applications against the OWASP Top 10, architecting authentication-hardened REST APIs, and designing segmented enterprise network topologies. Backed by security testing, network engineering, and database development internships alongside international exchange experience—bridging offensive security awareness with resilient, production-grade engineering.
+> Hands-on experience assessing web applications against the OWASP Top 10, building authentication-hardened REST APIs, and designing segmented enterprise networks. Backed by security testing, network engineering and database development internships, plus international work experience in the United States. I bring an attacker's mindset to defensive, production-grade engineering.
 
 <br/>
 
 <div align="center">
 
-| 🛡️ Offensive AppSec | 🤖 Applied AI Defense | 🌐 Network Architecture | 🎓 Academic Standing |
+| 🛡️ Offensive AppSec | 🔐 Secure Engineering | 🌐 Network Architecture | 🎓 Academic Standing |
 | :---: | :---: | :---: | :---: |
-| **OWASP Top 10** | **85%+ Accuracy** | **8-VLAN DMZ** | **3.7 CGPA** |
-| Burp Suite traffic interception, vulnerability analysis & remediation | Hybrid SBERT matching (**FutureIntern**) & 5-engine scam detection (**SANAD**) | Enterprise segmentation, OSPF, Extended ACLs & packet inspection | Excellence Honors at SUTech · Huawei 5G & Cisco NetAcad certified |
+| **OWASP Top 10** | **40 Attacks Blocked** | **8 VLANs + DMZ** | **3.7 CGPA** |
+| SQLi, XSS & IDOR testing with Burp Suite, plus severity-rated remediation reports | SecureShop's automated attack suite, 101 tests, Argon2id, TOTP MFA & CSRF defenses | VLAN segmentation, inter-VLAN routing, extended ACLs & SSH hardening | Excellence standing at SUTech · Huawei ICT Academy & Cisco NetAcad certificates |
 
 </div>
 
 ---
 
-### Technical Architecture & Stack
+### Technical Stack
 
 <table>
   <tr>
     <td width="27%"><strong>Core Languages</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=py,cpp,java,php,js,ts,html,css" alt="Core Languages" />
-      <img src="https://img.shields.io/badge/SQL_%2F_PL%2FSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL and PL/SQL" />
+      <img src="https://img.shields.io/badge/SQL_%2F_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQL and PL/SQL" />
     </td>
   </tr>
   <tr>
@@ -51,8 +51,10 @@
       <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/OWASP_Top_10-0F172A?style=flat-square&logo=owasp&logoColor=white" alt="OWASP Top 10" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/JWT_%2F_2FA_%2F_OAuth-4F46E5?style=flat-square&logoColor=white" alt="JWT 2FA OAuth" />
-      <img src="https://img.shields.io/badge/AES--256--GCM_%26_PBKDF2-1E1B4B?style=flat-square&logoColor=white" alt="AES-256-GCM and PBKDF2" />
+      <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Nmap_%26_Scapy-0F172A?style=flat-square&logoColor=white" alt="Nmap and Scapy" />
+      <img src="https://img.shields.io/badge/JWT_%2F_MFA_%2F_OAuth_%2F_RBAC-4F46E5?style=flat-square&logoColor=white" alt="JWT MFA OAuth RBAC" />
+      <img src="https://img.shields.io/badge/AES--256--GCM_%2F_Argon2id_%2F_PBKDF2-1E1B4B?style=flat-square&logoColor=white" alt="Cryptography" />
       <img src="https://img.shields.io/badge/NIST_SP_800--61-334155?style=flat-square&logoColor=white" alt="NIST SP 800-61" />
     </td>
   </tr>
@@ -62,14 +64,14 @@
       <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
       <img src="https://img.shields.io/badge/VLANs_%26_OSPF-0F172A?style=flat-square&logoColor=white" alt="VLANs and OSPF" />
       <img src="https://img.shields.io/badge/Extended_ACLs_%26_DMZ-1E1B4B?style=flat-square&logoColor=white" alt="Extended ACLs and DMZ" />
-      <img src="https://img.shields.io/badge/Scapy_%26_Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Scapy and Wireshark" />
       <img src="https://img.shields.io/badge/Huawei_5G-CF0A2C?style=flat-square&logo=huawei&logoColor=white" alt="Huawei 5G" />
+      <img src="https://skillicons.dev/icons?i=arduino" alt="ESP32 / Arduino" />
     </td>
   </tr>
   <tr>
     <td><strong>Backend, Frontend & Databases</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flask,fastapi,react,postgres,mysql" alt="Backend Frontend and Databases" />
+      <img src="https://skillicons.dev/icons?i=flask,fastapi,react,postgres,mysql,sqlite" alt="Backend Frontend and Databases" />
       <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle APEX" />
     </td>
   </tr>
@@ -77,44 +79,50 @@
     <td><strong>AI, DevSecOps & Cloud</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vercel,sklearn" alt="AI DevOps and Cloud" />
-      <img src="https://img.shields.io/badge/Trivy_CVE_Scanner-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
-      <img src="https://img.shields.io/badge/ArgoCD_GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
-      <img src="https://img.shields.io/badge/SBERT_%26_Whisper-4F46E5?style=flat-square&logoColor=white" alt="SBERT and Whisper" />
+      <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+      <img src="https://img.shields.io/badge/XGBoost_%2F_SBERT_%2F_Whisper-4F46E5?style=flat-square&logoColor=white" alt="XGBoost SBERT Whisper" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Featured Open-Source Engineering
+### Featured Projects
 
-| System | Architecture & Security Outcomes | Stack |
+| Project | Architecture & Security Outcomes | Stack |
 | :--- | :--- | :--- |
-| **[SANAD — Digital Fraud & Scam Defense](https://github.com/SeifBadreldin/sanad)**<br><sub>[Live Deployment ↗](https://sanad-web-beryl.vercel.app)</sub> | **Detection Engines:** 5 specialized AI modules targeting Egyptian-Arabic threats—scam text & SMS analysis, phishing URL inspection (typosquatting & look-alike domains), `Whisper` call transcription, and voice-deepfake screening.<br>**Deployment:** Containerized `FastAPI` service on `Railway` & `Vercel` hardened with rate limiting and strict CORS policies. | `Python` `FastAPI` `Whisper` `Docker` `Railway` `Vercel` |
-| **[FutureIntern — AI Internship Marketplace](https://github.com/SeifBadreldin/futureintern)** | **Security & Backend:** 10-blueprint `Flask` REST API serving React & React Native clients, secured with `JWT` blacklisting, email-OTP `2FA`, Google `OAuth`, `RBAC`, account lockout, `PBKDF2-SHA256`, and security headers.<br>**AI Engine:** Hybrid `TF-IDF` + `Sentence-BERT` matching system with explainable recommendations achieving **85%+ skill-alignment accuracy**. | `Flask` `PostgreSQL` `React` `React Native` `SBERT` `Railway` |
-| **[Secure Password Manager](https://github.com/SeifBadreldin/PasswordManager)** | **Cryptography:** Zero-knowledge desktop vault deriving keys via `PBKDF2` and sealing entries with `AES-256-GCM` authenticated encryption—the master password is never stored.<br>**Security Controls:** Live k-anonymity `HIBP` breach checks, password reuse detection, entropy scoring, and clipboard auto-clear. | `Python` `PyQt5` `AES-256-GCM` `PBKDF2` `HIBP API` |
-| **[Container Sentry — K8s CVE Scanner](https://github.com/SeifBadreldin/container-sentry)** | **DevSecOps Pipeline:** Scans Docker images for vulnerabilities using `Trivy` orchestrated as ephemeral `Kubernetes` Jobs, with GitOps delivery through `ArgoCD` on KinD.<br>**Backend & UI:** `FastAPI` submission service backed by `PostgreSQL` findings storage and an interactive vulnerability dashboard. | `Kubernetes` `Docker` `Trivy` `FastAPI` `PostgreSQL` `ArgoCD` |
-| **[Packet Sniffer — Real-Time Traffic Analyzer](https://github.com/SeifBadreldin/Packet-Sniffer)** | **Packet Inspection:** Captures and decodes live Ethernet, IPv4, TCP, and UDP packets in real time using `Scapy`.<br>**Interface & Forensics:** Interactive `Tkinter` desktop GUI with protocol filtering and `.pcap` export for deep-dive inspection in `Wireshark`. | `Python` `Scapy` `Tkinter` `Wireshark (.pcap)` |
+| **[SANAD — Digital Fraud Defense](https://github.com/SeifBadreldin/sanad)**<br><sub>Graduation Project III · [Live ↗](https://sanad-web-beryl.vercel.app)</sub> | **Detection:** 5 engines for Egyptian-Arabic threats: weighted scam-pattern scoring for text and SMS, phishing-URL analysis (typo-squatting, look-alike domains, risky TLDs), `Whisper` scam-call transcription, and signal-level voice-deepfake screening.<br>**Hardening:** `FastAPI` in an unprivileged Docker container on `Railway`, frontend on `Vercel`. Per-IP rate limiting, strict CORS and CSP, input validation, security headers, and CI running tests and `pip-audit`. | `Python` `FastAPI` `Whisper` `Docker` `Railway` `Vercel` |
+| **[SecureShop — Hardened E-Commerce](https://github.com/SeifBadreldin/secureshop)**<br><sub>Software Security · In progress</sub> | **Defenses:** `Flask` shop with `Argon2id` hashing, TOTP MFA with recovery codes, CSRF tokens, least-privilege roles, encrypted MFA secrets, `Ed25519`-signed receipts, and a hash-chained audit log.<br>**Verification:** a **40-attack automated suite** succeeds against a deliberately vulnerable twin and is blocked by SecureShop, backed by **101 tests** and `pip-audit`. | `Python` `Flask` `SQLite` `pytest` `cryptography` |
+| **[FutureIntern — AI Internship Marketplace](https://github.com/SeifBadreldin/futureintern)**<br><sub>Graduation Project II · 8-member team</sub> | **Backend & Security (my role):** 10-blueprint `Flask` REST API serving React and React Native clients, secured with `JWT` blacklisting, email-OTP `2FA`, Google `OAuth`, `RBAC`, account lockout, `PBKDF2-SHA256` and security headers.<br>**AI:** hybrid `TF-IDF` + `Sentence-BERT` matching with explainable recommendations, achieving **85%+ skill-alignment accuracy**. | `Flask` `PostgreSQL` `React` `React Native` `SBERT` `Railway` |
+| **[SafeHire — Job Fraud & Phishing Detection](https://github.com/SeifBadreldin/safehire)**<br><sub>AI course project</sub> | **ML:** `XGBoost` classifier trained on **18,000+ job postings** with TF-IDF features, SMOTE balancing and 5-fold cross-validation.<br>**Forensics:** `.eml` analysis for spoofed headers and dangerous attachments, heuristic phishing-URL scoring (Low to Critical), and an analytics dashboard. | `Python` `FastAPI` `XGBoost` `scikit-learn` |
+| **[Secure Password Manager](https://github.com/SeifBadreldin/secure-password-manager)** | **Cryptography:** zero-knowledge vault that derives keys with `PBKDF2` and seals entries with `AES-256-GCM`. The master password is never stored.<br>**Controls:** breach warnings while typing (offline HIBP-format list), reuse detection, entropy scoring, and clipboard auto-clear. | `Python` `PyQt5` `AES-256-GCM` `PBKDF2` |
+| **[Secure Campus Network](https://github.com/SeifBadreldin/secure-campus-network)**<br><sub>Advanced Networks course project</sub> | **Design:** multi-floor campus with 300+ endpoints, 8 VLANs, router-on-a-stick inter-VLAN routing, and per-VLAN DHCP.<br>**Security:** extended ACLs isolating VLANs, a DMZ for DNS/Web/Mail/File/DB servers, and SSH-only device management. | `Cisco Packet Tracer` `VLANs` `ACLs` `DMZ` |
 
-### Academic & Security Engineering Labs *(Course & Capstone Systems)*
-
-- **SafeHire — AI Job Fraud & Phishing Detection System** (`Python`, `FastAPI`, `XGBoost`, `scikit-learn`) — Trained on **18,000+ postings** with SMOTE class balancing, `.eml` header/attachment forensics, and heuristic phishing URL risk scoring.
-- **Secure University Campus Network Design** (`Cisco Packet Tracer`, `VLANs`, `OSPF`, `Extended ACLs`, `SSH`, `DMZ`) — Architected a 300+ endpoint multi-floor campus topology segmented into **8 VLANs** with a hardened DMZ and SSH-only device management.
-- **Phishing Defense & Awareness Platform** (`Python`, `Streamlit`, `LLM Integration`) — Developed a bilingual (Arabic/English) phishing simulation and suspicious-email analysis trainer with automated PDF awareness reporting.
+**More projects:**
+[Container Sentry](https://github.com/SeifBadreldin/container-sentry) (Kubernetes CVE scanner with Trivy & ArgoCD) ·
+[Pentest Labs](https://github.com/SeifBadreldin/pentest-labs) (Nmap, Metasploit, custom Python scanners) ·
+[Packet Sniffer](https://github.com/SeifBadreldin/packet-sniffer) (Scapy, .pcap export) ·
+[Phishing Awareness Platform](https://github.com/SeifBadreldin/phishing-awareness-platform) ·
+[Incident Response Plan](https://github.com/SeifBadreldin/incident-response-plan) (NIST SP 800-61) ·
+[ESP32 IoT Projects](https://github.com/SeifBadreldin/esp32-iot-projects) ·
+[Custom Linux Shell](https://github.com/SeifBadreldin/custom-linux-shell) ·
+[Laravel Web Security](https://github.com/SeifBadreldin/laravel-web-security)
 
 ---
 
 ### Experience, Leadership & Credentials
 
-- 🛡️ **Security Tester Intern — BRMJA Tech Company** *(Jan 2026 – Feb 2026)*: Conducted OWASP Top 10 web application assessments (SQLi, XSS, IDOR), intercepted and tampered with HTTP/S traffic using `Burp Suite`, and authored severity-rated remediation reports.
-- 🌐 **Data Network Engineering Intern — Orange Egypt, Technology Dept.** *(Aug 2024 – Sep 2024)*: Configured enterprise routers and switches in `Cisco Packet Tracer` and implemented subnetting, `VLAN` segmentation, and `OSPF` routing across simulated topologies.
+- 🛡️ **Security Tester Intern — BRMJA Tech Company** *(Jan 2026 – Feb 2026)*: Tested web applications against the OWASP Top 10 (SQLi, XSS, IDOR), intercepted and manipulated HTTP/S traffic with `Burp Suite`, and wrote severity-rated reports with remediation steps.
+- 🌐 **Data Network Engineering Intern — Orange Egypt, Technology Dept.** *(Aug 2024 – Sep 2024)*: Configured routers and switches in `Cisco Packet Tracer`, applying subnetting, `VLAN` segmentation and `OSPF` routing across simulated enterprise topologies.
 - 🗄️ **Oracle APEX Developer — Ain Shams University, Faculty of Dentistry** *(Nov 2022 – Jan 2023)*: Built a database-driven patient management and automated clinical reporting system for the Radiology Department (`Oracle APEX`, `SQL`, `PL/SQL`).
-- 🌎 **Summer Work & Travel Exchange Program (J-1) — New York, USA** *(Jun 2026 – Sep 2026)*: Worked as Lifeguard (*Big Splash*) and Crew Member (*Wendy's*), strengthening cross-cultural communication and operational discipline under pressure.
-- 🎓 **Bachelor of Network & Cybersecurity Technology — SUTech, ElSewedy University of Technology** *(Expected 2027 · CGPA 3.7, Excellence)*: Certified in **5G Mobile Network Deployment & 5G Basics** *(Huawei ICT Academy)*, **Network Addressing & Basic Troubleshooting** *(Cisco NetAcad)*, and **IELTS Academic 6.5 (CEFR B2)**.
+- 🌎 **Summer Work & Travel Exchange Program (J-1) — New York, USA** *(Jun 2026 – Sep 2026)*: Lifeguard at *Big Splash* and Crew Member at *Wendy's*, building cross-cultural communication and accountability under pressure.
+- 🎓 **Bachelor of Network & Cybersecurity Technology — SUTech, ElSewedy University of Technology** *(Oct 2023 – Expected 2027 · CGPA 3.7, Excellence)*
+- 📜 **Certificates:** *5G Mobile Network Deployment & Industry Applications* and *5G Basics* (Huawei ICT Academy) · *Network Addressing & Basic Troubleshooting* (Cisco Networking Academy) · **IELTS Academic 6.5 (CEFR B2)**
 
 ---
 
-### GitHub Telemetry
+### GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SeifBadreldin&show_icons=true&theme=transparent&hide_border=true&title_color=818CF8&icon_color=818CF8&text_color=94A3B8" alt="Seif Badreldin GitHub Stats" />
