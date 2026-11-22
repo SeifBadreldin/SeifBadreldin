@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:4F46E5&height=210&section=header&text=Seif+Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Network+and+Cybersecurity+%7C+AppSec+%7C+Secure+Backends&descSize=16&descAlignY=62&descColor=E2E8F0" alt="Seif Badreldin Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Network+%26+Cybersecurity+Undergraduate+(CGPA+3.7+%C2%B7+Excellence);Web+Application+Security+Testing+(OWASP+Top+10+%26+Burp+Suite);Secure+Backend+Engineering+(JWT%2C+MFA%2C+OAuth%2C+RBAC);Enterprise+Networking+%26+Fraud+Detection+Systems" alt="Core Security & Engineering Pillars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=750&lines=Network+%26+Cybersecurity+Undergraduate+;Web+Application+Security+Testing+(OWASP+Top+10+%26+Burp+Suite);Secure+Backend+Engineering+(JWT%2C+MFA%2C+OAuth%2C+RBAC);Enterprise+Networking+%26+Fraud+Detection+Systems" alt="Core Security & Engineering Pillars" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ### About
 
-> **Network & Cybersecurity Technology undergraduate (CGPA 3.7 · Excellence)** specializing in **web application security testing**, **secure backend engineering**, **enterprise networking**, and **fraud & phishing detection**.
+> **Network & Cybersecurity Technology undergraduate** specializing in **web application security testing**, **secure backend engineering**, **enterprise networking**, and **fraud & phishing detection**.
 >
 > Hands-on experience assessing web applications against the OWASP Top 10, building authentication-hardened REST APIs, and designing segmented enterprise networks. Backed by security testing, network engineering and database development internships, plus international work experience in the United States. I bring an attacker's mindset to defensive, production-grade engineering.
 
@@ -28,7 +28,7 @@
 
 | 🛡️ Offensive AppSec | 🔐 Secure Engineering | 🌐 Network Architecture | 🎓 Academic Standing |
 | :---: | :---: | :---: | :---: |
-| **OWASP Top 10** | **40 Attacks Blocked** | **8 VLANs + DMZ** | **3.7 CGPA** |
+| **OWASP Top 10** | **40 Attacks Blocked** | **8 VLANs + DMZ** | 
 | SQLi, XSS & IDOR testing with Burp Suite, plus severity-rated remediation reports | SecureShop's automated attack suite, 101 tests, Argon2id, TOTP MFA & CSRF defenses | VLAN segmentation, inter-VLAN routing, extended ACLs & SSH hardening | Excellence standing at SUTech · Huawei ICT Academy & Cisco NetAcad certificates |
 
 </div>
@@ -117,7 +117,7 @@
 - 🌐 **Data Network Engineering Intern — Orange Egypt, Technology Dept.** *(Aug 2024 – Sep 2024)*: Configured routers and switches in `Cisco Packet Tracer`, applying subnetting, `VLAN` segmentation and `OSPF` routing across simulated enterprise topologies.
 - 🗄️ **Oracle APEX Developer — Ain Shams University, Faculty of Dentistry** *(Nov 2022 – Jan 2023)*: Built a database-driven patient management and automated clinical reporting system for the Radiology Department (`Oracle APEX`, `SQL`, `PL/SQL`).
 - 🌎 **Summer Work & Travel Exchange Program (J-1) — New York, USA** *(Jun 2026 – Sep 2026)*: Lifeguard at *Big Splash* and Crew Member at *Wendy's*, building cross-cultural communication and accountability under pressure.
-- 🎓 **Bachelor of Network & Cybersecurity Technology — SUTech, ElSewedy University of Technology** *(Oct 2023 – Expected 2027 · CGPA 3.7, Excellence)*
+- 🎓 **Bachelor of Network & Cybersecurity Technology — SUTech, ElSewedy University of Technology** *(Oct 2023 – Expected 2027)*
 - 📜 **Certificates:** *5G Mobile Network Deployment & Industry Applications* and *5G Basics* (Huawei ICT Academy) · *Network Addressing & Basic Troubleshooting* (Cisco Networking Academy) · **IELTS Academic 6.5 (CEFR B2)**
 
 ---
